@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+
+}
+
+.bloc-1{
+    height: 125px;
+    width: calc(100%/3);
+}
+
+.bloc-2{
+    height: 125px;
+    width: calc(100%/3);
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    margin-top: 50px;
+    color: darkslategray;
+}
+
+.bloc3{
+    width: 25%;
+    display: flex;
+    margin-left: 150px; 
+}
+
+.bloc4{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+}
+
+.bloc5{
+    width: 500px;
+    display: flex;
+    margin-left: 150px;
+}
+
+.main2{
+    display: flex;
+    margin-top: 150 px;
+}
+
+.bloc6{
+    width: 500px;
+    display: flex;
+    margin-left: 150px;
+}
+
+.les-stats{
+    width: 300px;
+    margin-top: 80px;
+}
+
+.block7{
+    width: 200px;
+    display: flex;
+
+}
+
+.main3{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+.main4{
+    margin-left: 150px;
+}
+.fr{
+    display: flex;
+}
+
+.resistance{
+    margin-left: 50px;
+    margin-top: 15px;
+}
+
+.faiblesse{
+    margin-top: 15px;
+}
